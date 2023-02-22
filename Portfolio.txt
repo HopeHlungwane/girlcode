@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>About Me Page</title>
+</head>
+<body>
+    <nav class = "navbar">
+        <ul>
+            <li><a href = "#"> Home</a></li>
+            <li><a href = "#"> About Me</a></li>
+            <li><a href = "#"> Portfolio</a></li>
+            <li><a href = "#"> Services</a></li>
+            <li><a href = "#"> My Contacts</a></li>
+            <li><a href = "#"> Contact Me</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <div class = "main">
+            <h1 class = "headings">Hi! I AM <br>Hope Rifumo Hlungwane</h1>
+            <h2 class="description">Web Developer & Network Engineer</h2>
+            <button class = "btn">
+                Hire me
+            </button>
+        </div>
+    </section>
+
+    <section id="about">
+
+        <div id="pic">
+            <h1 class="headings"> ABOUT ME</h1>
+            <IMG SRC="me.png" ALT="">
+            <div id="into">
+                <h2>Hlungwane Hope</h2>
+                <P> I studied at Tshwane University of Technology for a National Diploma in Information Technology, specializing in Communication Networks. 
+                    Detail-oriented individual equipped with several programming skills. I work well independently as well as collaboratively in a team environment, currently seeking organization ethic experience.
+                    My goal is to expand my knowledge and customer service skills that I attained during my studies at Tshwane University of Technology through industrial exposure .
+                </P>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+    
+    
